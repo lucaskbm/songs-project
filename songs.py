@@ -7,8 +7,7 @@
 
 
 # Install Spotipy 
-get_ipython().system('pip install spotipy')
-
+!pip install spotipy
 
 # In[16]:
 
