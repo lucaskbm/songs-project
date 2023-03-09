@@ -1,8 +1,10 @@
-#!/usr/bin/env python
-# coding: utf-8
+import subprocess
 
-# # Installation & API connection & Libraries
+# Install the required package
+subprocess.call(['pip', 'install', 'spotipy'])
 
+# Import the package after it has been installed
+import spotipy
 
 # Import libraries
 import spotipy
