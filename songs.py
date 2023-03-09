@@ -3,14 +3,6 @@
 
 # # Installation & API connection & Libraries
 
-# In[1]:
-
-
-# Install Spotipy 
-!pip install spotipy
-
-# In[16]:
-
 
 # Import libraries
 import spotipy
